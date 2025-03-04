@@ -1,7 +1,7 @@
 /*
 	Delvis Kouete
 	Data Structure Spring 2025
-	Due: Feb. 25, 2025
+	Due: Mar. 4, 2025
 	Lab Name: Stack
 	A stack is an abstract data type in which elements are added and removed
 	from only one end; a “last in, first out” structure. This stack must be implemented as a
